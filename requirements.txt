@@ -1,0 +1,42 @@
+# package rest api
+wheel
+Flask==2.3.1
+flask-restx==1.1.0
+flask-sqlalchemy==3.0.3
+flask-mail==0.9.1
+PyJWT
+pyopenssl==23.1.1
+pymysql==1.0.3
+cryptography==40.0.2
+gunicorn
+pymysql
+cloudinary
+flask-socketio
+python-dotenv
+
+# package machine learning
+ultralytics
+gitpython
+matplotlib
+numpy
+opencv-contrib-python-headless
+Pillow
+psutil
+PyYAML
+scipy
+thop
+torch
+torchvision
+tqdm
+
+# plotting
+pandas
+seaborn
+
+#onnx runtime and dependencies
+onnx
+onnxruntime
+protobuf
+coloredlogs
+flatbuffers
+humanfriendly
